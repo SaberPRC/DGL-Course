@@ -8,7 +8,7 @@ This repo contains all the lecture notes for this DGL course. All relevant recor
 
 ***
 ### Course Contents
-* Lecture 1: [[Lecture Notes](./DGL_Lecture_1/), [Lecture Record](https://www.youtube.com/watch?v=gQRV_jUyaDw&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=1)]
+* **Lecture 1**: [[Lecture Notes](./DGL_Lecture_1/), [Lecture Record](https://www.youtube.com/watch?v=gQRV_jUyaDw&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=1)]
 
     * [Lecture 1.1](https://www.youtube.com/watch?v=gQRV_jUyaDw&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=1): Graph types
 
@@ -16,7 +16,7 @@ This repo contains all the lecture notes for this DGL course. All relevant recor
 
     * [Lecture 1.3](https://www.youtube.com/watch?v=u4bkPFTsvxY&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=3): Graph learning tasks
 
-* Lecture 2: [[Lecture Notes](./DGL_Lecture_2/), [Lecture Record](https://www.youtube.com/watch?v=gS1MnemlmFQ&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=4)]
+* **Lecture 2**: [[Lecture Notes](./DGL_Lecture_2/), [Lecture Record](https://www.youtube.com/watch?v=gS1MnemlmFQ&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=4)]
     
     * [Lecture 2.1](https://www.youtube.com/watch?v=gS1MnemlmFQ&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=4): The logic behind graph-based learning
 
@@ -28,7 +28,7 @@ This repo contains all the lecture notes for this DGL course. All relevant recor
 
     * [Lecture 2.5](https://www.youtube.com/watch?v=xiiGb4Y5OPo&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=8): Generalized GCN node and layer updates
 
-* Lecture 3: [[Lecture Notes](./DGL_Lecture_3/), [Lecture Record](https://www.youtube.com/watch?v=SxEgHgguqkI&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=9)]
+* **Lecture 3**: [[Lecture Notes](./DGL_Lecture_3/), [Lecture Record](https://www.youtube.com/watch?v=SxEgHgguqkI&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=9)]
 
     * [Lecture 3.1](https://www.youtube.com/watch?v=SxEgHgguqkI&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=9): GCN training and loss optimization
 
@@ -40,7 +40,7 @@ This repo contains all the lecture notes for this DGL course. All relevant recor
 
     * [Lecture 3.5](https://www.youtube.com/watch?v=zRmzVkidkqA&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=13): Global and local aggregation methods
 
-* Lecture 4: [[Lecture Notes](./DGL_Lecture_4/), [Lecture Record](https://www.youtube.com/watch?v=H8RsdeAiOBg&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=14)]
+* **Lecture 4**: [[Lecture Notes](./DGL_Lecture_4/), [Lecture Record](https://www.youtube.com/watch?v=H8RsdeAiOBg&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=14)]
 
     * [Lecture 4.1](https://www.youtube.com/watch?v=H8RsdeAiOBg&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=14): Point, batch and mini-batch gradient descent
 
@@ -54,7 +54,7 @@ This repo contains all the lecture notes for this DGL course. All relevant recor
 
     * [Lecture 4.6](https://www.youtube.com/watch?v=Lrr25EzAgkI&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=19): GNN inductive vs transductive learning
 
-* Lecture 5: [[Lecture Notes](./DGL_Lecture_5/), [Lecture Record](https://www.youtube.com/watch?v=Ac8h2rvhieU&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=20)]
+* **Lecture 5**: [[Lecture Notes](./DGL_Lecture_5/), [Lecture Record](https://www.youtube.com/watch?v=Ac8h2rvhieU&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=20)]
 
     * [Lecture 5.1](https://www.youtube.com/watch?v=Ac8h2rvhieU&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=20): Node permutation invariance in GNNs
 
@@ -64,7 +64,7 @@ This repo contains all the lecture notes for this DGL course. All relevant recor
 
     * [Lecture 5.4](https://www.youtube.com/watch?v=trJwayzmEoU&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=23): Graph Isomorphism Network Expressive Nets
 
-* Lecture 6[[Lecture Notes](./DGL_Lecture_6/), [Lecture Record](https://www.youtube.com/watch?v=TLiHaXinKlA&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=24)]:
+* **Lecture 6**: [[Lecture Notes](./DGL_Lecture_6/), [Lecture Record](https://www.youtube.com/watch?v=TLiHaXinKlA&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=24)]
 
     * [Lecture 6.1](https://www.youtube.com/watch?v=TLiHaXinKlA&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T&index=24): Overview of supervised generative GNNs
 
